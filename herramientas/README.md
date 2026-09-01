@@ -31,6 +31,7 @@ Stack tecnológico recomendado para desarrollo de Inteligencia Artificial, desde
 *   **LlamaIndex:** Framework especializado en conectar LLMs con tus datos privados (RAG - Retrieval Augmented Generation).
 *   **Diffusers:** Librería para generación de imágenes y audio (Stable Diffusion, ControlNet).
 *   **Ollama:** Herramienta para correr LLMs (Llama 3, Mistral, Gemma) localmente de forma muy sencilla.
+*   **[Agent Coordinator](https://github.com/alanhoff/agent-coordinator):** Skill de Codex para el usuario actual que organiza trabajos complejos como grafos acotados, con estado local versionado y reconciliación antes de reintentar; requiere Codex y Python 3.11 o posterior, y puede usar agentes especialistas opcionales o realizar el mismo proceso dentro de la tarea principal.
 
 ---
 
